@@ -38,8 +38,7 @@ My mission is to combine technical problem-solving with real-world experience to
 
 Here are some of my ongoing or planned projects (check the `/projects` folder or blog for updates):
 
-## Project | Description | Tech Stack |
-|--------|-------------|------------|
+## Project | Description | Tech Stack
 | **PriceBuddy** | Grocery price tracker for vegetarian items across stores in Helsinki | Python, Web Scraping, Pandas |
 | **Portfolio Website** | This portfolio site built using Docusaurus | React, MDX, Docusaurus |
 | **Sales Data Dashboard** | Sales visualizer using Matplotlib and Seaborn | Python, Excel, Data Visualization |
