@@ -18,8 +18,8 @@ My mission is to combine technical problem-solving with real-world experience to
 ## 🔧 Tech Stack & Tools
 
 **Languages & Frameworks**
-- JavaScript, Python, SQL, HTML5, CSS3
-- React.js, Node.js, Express.js
+- JavaScript, Python, SQL, HTML, CSS
+- React.js, Node.js,
 
 **Tools & Libraries**
 - Git & GitHub
@@ -38,7 +38,7 @@ My mission is to combine technical problem-solving with real-world experience to
 
 Here are some of my ongoing or planned projects (check the `/projects` folder or blog for updates):
 
-| Project | Description | Tech Stack |
+## Project | Description | Tech Stack |
 |--------|-------------|------------|
 | **PriceBuddy** | Grocery price tracker for vegetarian items across stores in Helsinki | Python, Web Scraping, Pandas |
 | **Portfolio Website** | This portfolio site built using Docusaurus | React, MDX, Docusaurus |
