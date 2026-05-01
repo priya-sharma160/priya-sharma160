@@ -46,7 +46,7 @@ Focused on backend systems, REST APIs, authentication, and database-driven appli
 - JWT authentication system  
 - MongoDB cloud database integration  
 - Deployed application (Render)  
-- 🔗 GitHub: https://github.com/yourusername/project1  
+- 🔗 GitHub: https://github.com/priya-sharma160/MindWave_Blog.git
 
 ---
 
@@ -55,7 +55,7 @@ Focused on backend systems, REST APIs, authentication, and database-driven appli
 - Warranty tracking with reminders  
 - Secure authentication system  
 - File upload functionality  
-- 🔗 GitHub: https://github.com/yourusername/project2  
+- 🔗 GitHub:  https://github.com/priya-sharma160/Digital-Warranty-Receipt-Manager.git 
 
 ---
 
@@ -63,15 +63,15 @@ Focused on backend systems, REST APIs, authentication, and database-driven appli
 - Category-based expense management system  
 - Backend API for data storage  
 - Clean and responsive UI  
-- 🔗 GitHub: https://github.com/yourusername/project3  
+- 🔗 GitHub: (https://priya-sharma160.github.io/Monthly_Expense_Tracker/)
 
 ---
 
 ## 📫 Contact
 
 - 📧 Email: your.email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 💻 GitHub: https://github.com/yourusername  
+- 💼 LinkedIn: (https://www.linkedin.com/in/priya-sharma-savra/) 
+- 💻 GitHub: (https://github.com/priya-sharma160)  
 
 ---
 
